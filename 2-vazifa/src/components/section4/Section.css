@@ -1,0 +1,30 @@
+.section4 img{
+    margin-top: 100px;
+    align-items: center;
+    display: flex;
+}
+.banner{
+    position: relative;
+}
+.text{
+    position: absolute;
+    top:40px;
+    left: 550px;
+    text-align: center;
+}
+input{
+width: 350px;
+height: 50px;
+border: none;
+border-radius: 5px;
+}
+.H1 {
+    color: white;
+}
+/* hr{
+    margin-top: 200px;
+    width: 1320px;
+} */
+p{
+    color: white;
+}

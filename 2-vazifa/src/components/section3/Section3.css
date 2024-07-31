@@ -1,0 +1,55 @@
+.flex{
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    margin-top: 200px;
+    /* gap: 10px; */
+    padding: 20px 10px;
+   
+}
+.articles{
+    margin-top: 100px;
+    margin-left: 60px;
+}
+hr{
+    margin-top: 20px;
+    width: 1320px;
+}.btnLoad{
+  margin-left: 600px;
+  margin-top: 100px;
+  height: 60px;
+  width: 200px;
+  font-size: 20px;
+
+}
+
+h1{
+    margin-top: 50px;
+    font-size: 40px;
+    /* margin-left: 80px; */
+}
+.cards img{
+    border-radius: 20px;
+}
+.card{
+    margin-left: -200px;
+}
+.card2{
+    margin-left: -100px;
+}
+.flex{
+    margin-top: 10px;
+}
+.flex:hover {
+    transition: all 0.2s ease-out;
+    /* box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2); */
+    /* top: -4px; */
+    border-radius: 10px;
+    /* border: 1px solid #cccccc; */
+}
+.flex:hover {
+transform: scale(1.1);
+}
+.cards{
+margin-top:100px;
+}
